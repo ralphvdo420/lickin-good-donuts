@@ -1,0 +1,7 @@
+/* src/fonts.css */
+@font-face {
+    font-family: 'Bebas';
+    src: url('./fonts/BebasNeue-Regular.ttf') format('woff2');
+    font-weight: 400; /* Use the correct font-weight as per your font files */
+    font-style: normal;
+  }
