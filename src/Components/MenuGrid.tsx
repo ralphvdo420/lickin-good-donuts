@@ -1,16 +1,10 @@
 import blueDonut from "../imgs/blue-donut.jpg";
-
 import brownSugar from "../imgs/brown-sugar-cinnamon.jpg";
 import caramelFrap from "../imgs/caramel-frap.jpg";
-
 import chocGlazed from "../imgs/choc-glazed.jpg";
-
 import freshGlazed from "../imgs/fresh-glazed.jpg";
-
 import mixedBox from "../imgs/mixed-box.jpg";
-
 import pinkDonuts from "../imgs/pink-donuts.jpg";
-
 import snickersFrap from "../imgs/snickers-frap.jpg";
 
 const MenuGrid = () => {

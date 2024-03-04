@@ -1,0 +1,13 @@
+button:focus {
+    background:#f097bc;
+    transition: all 500ms ease-in-out;
+}
+
+@keyframes bounceUp {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }

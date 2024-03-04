@@ -1,10 +1,8 @@
 import lickinLogo from "./assets/lickin-good.svg";
-
 import Header from "./Components/Header";
-
 import MenuGrid from "./Components/MenuGrid";
 import About from "./Components/About";
-import MenuSides from "./Components/MenuSides";
+import MenuTabs from "./Components/MenuTabs";
 import "./App.css";
 import "./fonts.css";
 
@@ -13,7 +11,7 @@ function App() {
     <>
       <Header logo={lickinLogo}></Header>
       <About logo={lickinLogo}></About>
-      <MenuSides></MenuSides>
+      <MenuTabs></MenuTabs>
       <MenuGrid></MenuGrid>
     </>
   );
