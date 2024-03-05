@@ -12,6 +12,7 @@ export default {
       'darkbrown': '#401416',
       'tan': '#dda786',
       'velvet': '#591123',
+      'velvet-clear': '#66591123',
       'white': '#ffffff',
     },
     extend: {

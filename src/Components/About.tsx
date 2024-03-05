@@ -10,7 +10,7 @@ const About = ({ logo }: LogoProps) => {
         alt=""
       />
       <h1 className="text-white font-custom text-center text-3xl">
-        Welcome Swarm
+        Welcome to The Best Donuts
       </h1>
       <p className="text-custom text-white text-center w-[80%] mx-auto">
         We make Fresh Homemade Donuts, Breakfast Burritos, Hot/Cold Coffee

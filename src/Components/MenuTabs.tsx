@@ -1,6 +1,5 @@
 import { useState } from "react";
 import closingShop from "../imgs/closing-shop.jpg";
-import "../menutabs.css";
 const MenuTabs = () => {
   const [activeTab, setActiveTab] = useState<string>("glazed");
 

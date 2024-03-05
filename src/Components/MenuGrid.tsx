@@ -6,6 +6,8 @@ import freshGlazed from "../imgs/fresh-glazed.jpg";
 import mixedBox from "../imgs/mixed-box.jpg";
 import pinkDonuts from "../imgs/pink-donuts.jpg";
 import snickersFrap from "../imgs/snickers-frap.jpg";
+import chocDonut from "../imgs/choc-donut.jpg";
+import "../menutabs.css";
 
 const MenuGrid = () => {
   return (
@@ -55,22 +57,6 @@ const MenuGrid = () => {
           <img
             className="h-[300px] w-full object-cover"
             src={freshGlazed}
-            alt=""
-          />
-        </div>
-
-        <div>
-          <img
-            className="h-[300px] w-full object-cover"
-            src={mixedBox}
-            alt=""
-          />
-        </div>
-
-        <div>
-          <img
-            className="h-[300px] w-full object-cover"
-            src={snickersFrap}
             alt=""
           />
         </div>
