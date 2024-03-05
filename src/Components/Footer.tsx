@@ -1,5 +1,4 @@
 import chocDonut from "../imgs/choc-donut.jpg";
-import React from "react";
 import { Parallax } from "react-parallax";
 
 const Footer = () => {

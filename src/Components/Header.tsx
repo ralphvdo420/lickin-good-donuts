@@ -1,6 +1,5 @@
 import "../index.css";
 import inventory from "../imgs/inventory.jpg";
-import { Parallax } from "react-parallax";
 type LogoProps = {
   logo: string;
 };
